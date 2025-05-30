@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Davina (@davinar18)
+### Hi there 👋 I'm Davina Rajendran (@davinar18)
 
 - 👀 I’m interested in **software development, AI, and creating real-world tech solutions**
 - 🌱 I’m currently learning **machine learning, algorithms, and full-stack development**
